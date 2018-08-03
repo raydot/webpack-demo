@@ -1,0 +1,12 @@
+@font-face {
+	font-family: MyFont;
+	src: url("./Pacifico.ttf") format("truetype");
+	font-size: 32px;
+}
+
+.hello {
+	color: blue;
+	font-family: MyFont;
+	background: url('./icon.png');
+	height: 10em;
+}
